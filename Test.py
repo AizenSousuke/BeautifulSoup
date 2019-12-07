@@ -1,5 +1,5 @@
 '''
-This python file is an example of how to use beautiful to extract text\images from a website.
+This python file is an example of how to use beautifulsoup to extract text\images from a website.
 
 Requirements:
 Beautiful Soup,

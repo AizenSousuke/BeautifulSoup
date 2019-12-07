@@ -1,11 +1,13 @@
-This python file is an example of how to use beautiful to extract text\images from a website.
+## This python file is an example of how to use beautifulsoup to extract text\images from a website.
 
-Requirements:
-Beautiful Soup,
-requests library
-python
+## Requirements:
+* Beautiful Soup
+* requests library
+* python
 
-Installation:
+## Installation:
+```
 pip install beautifulsoup4
 pip install requests
 Run the py file
+```
